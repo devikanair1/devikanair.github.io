@@ -1,9 +1,16 @@
-# Devika Ramachandran Nair — Personal Website
+# Devika Nair Portfolio
 
-This site is hosted using GitHub Pages.
+Personal software engineer portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
 
-## How to publish
-1. Create a repo named: YOURUSERNAME.github.io
-2. Add `index.html` and `styles.css`
-3. Go to Settings → Pages → Branch: main → Save
-4. Open: https://YOURUSERNAME.github.io
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
